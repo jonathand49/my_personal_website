@@ -24,8 +24,7 @@ body {
       }
 
       .my-img {
-        margin-left: auto;
-        margin-right: auto;
+        margin-left: 10;
         display:flex;
         justify-content: center;
         height: 110px
