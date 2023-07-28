@@ -33,7 +33,7 @@ body {
     .the-background {
         background-color: #b6c844;
       
-        height: 100vh;
+        height: 150vh;
       }
 
     nav a {
@@ -75,4 +75,8 @@ body {
     #resume object {
     margin: 0 auto;
     display: block;
+    }
+
+    h3 {
+        margin-bottom: -350px;
     }
